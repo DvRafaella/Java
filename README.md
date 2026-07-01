@@ -290,3 +290,37 @@ O mesmo arquivo `.class` pode ser executado em qualquer sistema que tenha uma JV
 ```
 
 Essa é a sequência completa do funcionamento do Java: **você escreve o código-fonte → o JDK o compila em bytecode → a JVM interpreta ou compila esse bytecode para código de máquina → o computador executa o programa.**
+
+
+
+
+
+
+### 1. JDK (Java Development Kit)
+
+**Oracle JDK (oficial):**
+
+[Download do Oracle JDK](https://www.oracle.com/br/java/technologies/downloads/?utm_source=chatgpt.com)
+
+Se você está começando a aprender Java, uma boa opção é instalar a versão **JDK 21 (LTS)**, pois ela tem suporte de longo prazo e é muito utilizada em cursos e projetos. ([Oracle][1])
+
+---
+
+### 2. Apache NetBeans
+
+**IDE oficial:**
+
+[Download do Apache NetBeans](https://netbeans.apache.org/front/main/download/index.html?utm_source=chatgpt.com)
+
+A versão mais recente disponível é o **Apache NetBeans 30**. ([netbeans.apache.org][2])
+
+---
+
+### Ordem de instalação
+
+1. Baixe e instale o **JDK**.
+2. Depois, baixe e instale o **NetBeans**.
+3. Ao abrir o NetBeans pela primeira vez, ele normalmente detecta o JDK automaticamente. Se não detectar, basta informar a pasta onde o JDK foi instalado.
+
+
+
